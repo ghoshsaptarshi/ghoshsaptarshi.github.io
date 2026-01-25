@@ -112,7 +112,7 @@ pagination:
   enabled: true
   collection: 'posts'
   per_page: 5
-  paginate_path: '/posts/page/:num/'  # Pages are index.html inside this folder (default)
+  paginate_path: '/posts/:num/'  # Pages are index.html inside this folder (default)
   title: ':title - page :num'
   limit: 0
   sort_field: 'date'
