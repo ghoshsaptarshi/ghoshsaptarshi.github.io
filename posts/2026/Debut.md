@@ -4,7 +4,7 @@ tags:
   - obsidian
 aliases:
 cssclasses:
-layout: post
+layout: posts
 ---
 Welcome to my personal blog/website...
 
