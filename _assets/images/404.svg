@@ -1,0 +1,51 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+
+  <!-- Ground -->
+  <line x1="50" y1="330" x2="550" y2="330"></line>
+
+  <!-- 404 Text -->
+  <text x="300" y="120" text-anchor="middle" font-size="96" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="black" stroke="none">
+    404
+  </text>
+
+  <!-- Sign Post -->
+  <line x1="420" y1="160" x2="420" y2="330"></line>
+  <rect x="360" y="160" width="160" height="60" rx="8"></rect>
+  <line x1="360" y1="180" x2="520" y2="200"></line>
+
+  <!-- Sign Text -->
+  <text x="440" y="200" text-anchor="middle" font-size="24" font-family="Arial" fill="black" stroke="none">
+    LOST
+  </text>
+
+  <!-- Cartoon Character Head -->
+  <circle cx="200" cy="230" r="30"></circle>
+
+  <!-- Eyes -->
+  <circle cx="190" cy="225" r="3" fill="black"></circle>
+  <circle cx="210" cy="225" r="3" fill="black"></circle>
+
+  <!-- Mouth -->
+  <path d="M190 245 q10 8 20 0"></path>
+
+  <!-- Body -->
+  <line x1="200" y1="260" x2="200" y2="310"></line>
+
+  <!-- Arms -->
+  <line x1="200" y1="275" x2="170" y2="295"></line>
+  <line x1="200" y1="275" x2="230" y2="295"></line>
+
+  <!-- Legs -->
+  <line x1="200" y1="310" x2="180" y2="330"></line>
+  <line x1="200" y1="310" x2="220" y2="330"></line>
+
+  <!-- Question Mark -->
+  <path d="M150 190 q0 -20 20 -20 q20 0 20 20 q0 15 -20 25"></path>
+  <circle cx="170" cy="225" r="2" fill="black"></circle>
+
+  <!-- Subtitle -->
+  <text x="300" y="370" text-anchor="middle" font-size="18" font-family="Arial" fill="black" stroke="none">
+    Page not found
+  </text>
+
+</svg>
