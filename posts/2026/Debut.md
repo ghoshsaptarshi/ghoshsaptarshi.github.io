@@ -1,7 +1,6 @@
 ---
 title: Debut
 tags:
-  - obsidian
 aliases:
 cssclasses:
 layout: posts
