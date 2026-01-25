@@ -1,0 +1,12 @@
+---
+title: Debut
+tags:
+  - obsidian
+aliases:
+cssclasses:
+---
+Welcome to my personal blog/website...
+
+I’ve been meaning to create it like this for a while - a place to rant and share something interesting occasionally. This website would be unfiltered rant. I won't be enabling comments on this blog as of now so if you wish to contact me, use one of the ways to contact in the "About".
+
+If you’re still reading this, I’m glad you’re here and will see you around. Until next time...
