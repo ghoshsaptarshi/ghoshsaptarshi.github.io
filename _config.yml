@@ -28,7 +28,7 @@ permalink: /:categories/:title/
 paginate: 7 # amount of posts to show
 paginate_path: "/posts/page:num/"
 timezone: America/New_York
-baseurl: "https://ghoshsaptarshi.github.io/"
+#baseurl: "https://ghoshsaptarshi.github.io/"
 
 include:
   - _pages
