@@ -1,5 +1,9 @@
 main:
-  - title: "Tech Notes"
-    url: https://ghoshsaptarshi.github.io/technotes/
-  - title: "Factorio Mods"
-    url: https://ghoshsaptarshi.github.io/factorio/
+  - title: "Archives"
+    url: /yearly-archive/
+  - title: "tags"
+    url: /tags/
+  - title: "Notes"
+    url: /technotes/
+  - title: "Factorio"
+    url: /factorio/
